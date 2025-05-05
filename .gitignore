@@ -1,0 +1,8 @@
+.env
+downloads/
+transcripts/
+__pycache__/
+*.pyc
+*.mp3
+*.txt
+.DS_Store
